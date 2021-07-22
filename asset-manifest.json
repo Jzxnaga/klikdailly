@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/klikdailly/static/css/main.a617e044.chunk.css",
+    "main.js": "/klikdailly/static/js/main.b2c526ce.chunk.js",
+    "main.js.map": "/klikdailly/static/js/main.b2c526ce.chunk.js.map",
+    "runtime-main.js": "/klikdailly/static/js/runtime-main.d47ada5f.js",
+    "runtime-main.js.map": "/klikdailly/static/js/runtime-main.d47ada5f.js.map",
+    "static/js/2.9307266f.chunk.js": "/klikdailly/static/js/2.9307266f.chunk.js",
+    "static/js/2.9307266f.chunk.js.map": "/klikdailly/static/js/2.9307266f.chunk.js.map",
+    "static/js/3.38fde143.chunk.js": "/klikdailly/static/js/3.38fde143.chunk.js",
+    "static/js/3.38fde143.chunk.js.map": "/klikdailly/static/js/3.38fde143.chunk.js.map",
+    "index.html": "/klikdailly/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/klikdailly/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.9307266f.chunk.js.LICENSE.txt": "/klikdailly/static/js/2.9307266f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/klikdailly/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d47ada5f.js",
+    "static/js/2.9307266f.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.b2c526ce.chunk.js"
+  ]
+}

@@ -618,7 +618,7 @@ function CreateOrder() {
 
 
 
-            <div className='Component' style = {{display:'flex',flexDirection:'row',justifyContent:'flex-end',marginBottom:'1vw',marginRight:'1vw'}}> 
+            <div className='Component' style = {{marginTop:'5vh',display:'flex',flexDirection:'row',justifyContent:'flex-end',marginBottom:'1vw',marginRight:'1vw'}}> 
                 <div  style = {{marginRight:'1vw'}}>
                     <button
                     style={{width:'10vw',height:'6vh'}}

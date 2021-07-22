@@ -1,25 +1,26 @@
 import logo from './logo.svg';
 import './App.css';
+import CreateOrder from './CreateOrder.js'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload2.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+      <div className='App'>
+        <div className='Container' style ={{borderWidth: "10vw",borderColor: "blue",}}>
+            <div className='Title'>
+                <h3>
+                    Create Order
+                </h3>
+            </div>  
+            
+
+            <CreateOrder/>  
+
+
+
+
+        </div>
+      </div>
+    );
 }
 
 export default App;

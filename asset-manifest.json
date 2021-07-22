@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/klikdailly/static/css/main.a617e044.chunk.css",
-    "main.js": "/klikdailly/static/js/main.b2c526ce.chunk.js",
-    "main.js.map": "/klikdailly/static/js/main.b2c526ce.chunk.js.map",
+    "main.js": "/klikdailly/static/js/main.f953b5ae.chunk.js",
+    "main.js.map": "/klikdailly/static/js/main.f953b5ae.chunk.js.map",
     "runtime-main.js": "/klikdailly/static/js/runtime-main.d47ada5f.js",
     "runtime-main.js.map": "/klikdailly/static/js/runtime-main.d47ada5f.js.map",
     "static/js/2.9307266f.chunk.js": "/klikdailly/static/js/2.9307266f.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.d47ada5f.js",
     "static/js/2.9307266f.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.b2c526ce.chunk.js"
+    "static/js/main.f953b5ae.chunk.js"
   ]
 }

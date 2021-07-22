@@ -72,7 +72,7 @@ function CreateOrder() {
 
         setErrorApi(false)
 
-        const url= 'http://dummy.restapiexample.com/api/v1/employees';
+        const url= 'https://dummy.restapiexample.com/api/v1/employees';
         await axios({
         url:url,
         method: 'get',
